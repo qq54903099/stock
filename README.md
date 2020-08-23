@@ -7,6 +7,8 @@
 
 目前从当前计算方式来看如果你持续投入，按照每天、每周或者每月进行定投，最终获得的收益率是差不多的。
 
+基金数据接口：https://www.doctorxiong.club/#/stock/industry
+
 
 --- 
 
